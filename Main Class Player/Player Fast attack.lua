@@ -60,9 +60,3 @@ function ATK300()
     RTM(Rt[1].address + 0x8C,4,0,true,0,300)
     RIOT(Rt[1].address + 0xA8,4,true,"Attack",0)
 end
-while true do
-    if gg.isVisible(true) then
-        gg.setVisible(false)
-        main()
-    end
-end
