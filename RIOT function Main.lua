@@ -39,7 +39,7 @@ function Player()
     if py == 0 then
     else
         if py == 1 then
-            RTM = gg.makeRequest('https://').content if RTM then pcall(load(RTM)) end
+            RTM = gg.makeRequest('https://raw.githubusercontent.com/RIOTTREU/RIOT-FULL-FUNICTION/main/RIOT%20function%20Class%20Player%20Combined%20functions.lua').content if RTM then pcall(load(RTM)) end
         end
         if py == 2 then
             RTM = gg.makeRequest('https://raw.githubusercontent.com/RIOTTREU/RIOT-FULL-FUNICTION/main/RIOT%20function%20Class%20Player%20Split%20function.lua').content if RTM then pcall(load(RTM)) end
