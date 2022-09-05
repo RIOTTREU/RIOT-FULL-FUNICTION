@@ -29,7 +29,7 @@ function Splitfunction()
             RTM = gg.makeRequest('https://raw.githubusercontent.com/RIOTTREU/RIOT-FULL-FUNICTION/main/Main%20Class%20Player/Player%20Walk%20through%20the%20wall.lua').content if RTM then pcall(load(RTM)) end
         end
         if Split[7] then
-            RTM = gg.makeRequest('https://').content if RTM then pcall(load(RTM)) end
+            RTM = gg.makeRequest('https://raw.githubusercontent.com/RIOTTREU/RIOT-FULL-FUNICTION/main/RIOT%20function%20Main.lua').content if RTM then pcall(load(RTM)) end
         end
 end
 
