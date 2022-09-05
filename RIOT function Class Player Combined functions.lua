@@ -1,0 +1,6 @@
+RTM = gg.makeRequest('https://raw.githubusercontent.com/RIOTTREU/RIOT-FULL-FUNICTION/main/Main%20Class%20Player/Player%20Fake%20player%20name.lua').content if RTM then pcall(load(RTM)) end
+RTM = gg.makeRequest('https://raw.githubusercontent.com/RIOTTREU/RIOT-FULL-FUNICTION/main/Main%20Class%20Player/Player%20Fast%20attack.lua').content if RTM then pcall(load(RTM)) end
+RTM = gg.makeRequest('https://raw.githubusercontent.com/RIOTTREU/RIOT-FULL-FUNICTION/main/Main%20Class%20Player/Player%20Increase%20attack%20range.lua').content if RTM then pcall(load(RTM)) end
+RTM = gg.makeRequest('https://raw.githubusercontent.com/RIOTTREU/RIOT-FULL-FUNICTION/main/Main%20Class%20Player/Player%20No%20Delay%20Items%20%26%20Skills.lua').content if RTM then pcall(load(RTM)) end
+RTM = gg.makeRequest('https://raw.githubusercontent.com/RIOTTREU/RIOT-FULL-FUNICTION/main/Main%20Class%20Player/Player%20Run%20fast.lua').content if RTM then pcall(load(RTM)) end
+RTM = gg.makeRequest('https://raw.githubusercontent.com/RIOTTREU/RIOT-FULL-FUNICTION/main/Main%20Class%20Player/Player%20Walk%20through%20the%20wall.lua').content if RTM then pcall(load(RTM)) end
